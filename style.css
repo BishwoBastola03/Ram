@@ -1,6 +1,10 @@
 * {
   background-color:black;
+  margin:0px;
+  padding:0px;
 }
-h1{
-  color:white
+.boy li{
+  color:white;
+  height:200px;
+    gap:0px
 }
